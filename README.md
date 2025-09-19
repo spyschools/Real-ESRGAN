@@ -12,3 +12,9 @@ sudo ./setup_replicate.sh
 chmod +x replicate_test_big.py
 
 sudo ./replicate_test_big.py
+
+chmod +x replicate_blip_fallback.py
+
+python3 replicate_blip_fallback.py
+
+
